@@ -52,4 +52,4 @@ Faça uma rodada sem ler respostas prontas. Uma pessoa aponta um método; outra 
 
 ## Antes de encerrar
 
-Registre limitações e verificações ainda necessárias com honestidade. Confirme identificação e link do repositório, organização dos manuscritos e participação de todos. A orientação sobre a “carta” ainda depende do professor e não deve ser inventada.
+Registre limitações e verificações ainda necessárias com honestidade. Confirme identificação e link do repositório, organização dos manuscritos e participação de todos. A “carta” é a própria entrega manuscrita já prevista: cada integrante deve entregar um DER, um diagrama de sequência com o caso de veículo indisponível e cinco respostas, todos à mão em A4 branco sem pautas ou quadriculados e identificados com nome completo.

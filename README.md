@@ -230,10 +230,10 @@ Os [diagramas](docs/diagramas.md) são referências de estudo. Cada aluno deve e
 
 - [Checklist de requisitos e referências](docs/requisitos.md)
 - [Guia das cinco questões individuais](docs/guia-estudo.md)
-- [Checklist de entrega e pendência da “carta”](docs/checklist-entrega.md)
+- [Checklist de entrega individual](docs/checklist-entrega.md)
 - [Resultados e limitações da verificação](docs/verificacao.md)
 
-A “carta” citada verbalmente pelo professor permanece pendente: conteúdo, formato e canal ainda precisam ser confirmados. Não foi produzida uma declaração de autoria ou participação.
+A “carta” mencionada no checklist corresponde à entrega manuscrita individual já prevista no enunciado: um DER, um diagrama de sequência e as respostas às cinco questões. Não há documento extra a confirmar.
 
 ## Git e revisão
 

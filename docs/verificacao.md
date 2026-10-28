@@ -68,7 +68,7 @@ Foi preparado um commit local com a implementação e a documentação. Consulte
 - O projeto permanece no escopo acadêmico: não implementa revogação de JWT ou funcionalidades comerciais adicionais.
 - Preencher identificação dos integrantes no README.
 - Cada aluno deve preparar individualmente os diagramas e as cinco respostas manuscritas, em A4 branco sem pautas ou quadriculados, e treinar a apresentação.
-- Confirmar com o professor o conteúdo, formato e canal da “carta”. Essa entrega permanece pendente.
+- A “carta” foi esclarecida como a própria entrega manuscrita individual: um DER, um diagrama de sequência e cinco respostas. Não há documento extra a confirmar; produzir e entregar os manuscritos continua sendo responsabilidade de cada aluno.
 - Revisar o commit local e autorizar/realizar o push para entregar o link do repositório.
 
 ## Evidências da interface

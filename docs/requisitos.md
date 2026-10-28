@@ -48,5 +48,5 @@ Não foram solicitados pagamentos, multas, reservas futuras, perfis administrati
 - Elaborar individualmente DER, sequência e respostas A–E manuscritas em A4 branco sem pautas ou quadriculados.
 - Organizar e identificar as folhas com nome completo para entrega física ao professor.
 - Participar da apresentação e responder à pergunta oral sobre qualquer parte do código.
-- Confirmar a exigência verbal da “carta”: conteúdo, formato e canal ainda desconhecidos.
+- A “carta” corresponde aos dois diagramas e às cinco respostas manuscritas individuais já previstos; não há documento extra a confirmar.
 - Revisar a execução real e o envio do link GitHub conforme [checklist-entrega.md](checklist-entrega.md).

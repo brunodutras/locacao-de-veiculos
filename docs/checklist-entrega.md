@@ -16,22 +16,18 @@
 
 ## Entrega individual de cada aluno
 
-- [ ] DER elaborado individualmente, inteiramente à mão.
-- [ ] Diagrama de sequência elaborado individualmente, inteiramente à mão.
-- [ ] Cinco respostas A–E elaboradas individualmente, inteiramente à mão.
+- [ ] Um DER elaborado individualmente, inteiramente à mão, com entidades, atributos, chaves e relacionamentos do schema final.
+- [ ] Um diagrama de sequência elaborado individualmente, inteiramente à mão, para o registro de locação, incluindo o caso de veículo indisponível.
+- [ ] Cinco respostas A–E elaboradas individualmente, inteiramente à mão, sobre camadas da API, Prisma, JWT/bcrypt, concorrência e React, coerentes com o código final.
 - [ ] Usar papel A4 branco, sem pautas ou quadriculados.
 - [ ] Identificar nome completo; organizar folhas legíveis para entrega física.
 - [ ] Não substituir manuscritos por impressões nem copiar respostas de colegas.
 - [ ] Treinar localizar, explicar e justificar qualquer parte do sistema.
 - [ ] Participar da demonstração e responder à pergunta oral individual.
 
-## Pendência da “carta”
+## Esclarecimento sobre a “carta”
 
-- [ ] Perguntar ao professor qual é o conteúdo, formato e canal de envio da “carta” mencionada verbalmente.
-- [ ] Registrar a orientação recebida antes de preparar esse material.
-- [ ] Cumprir a exigência confirmada e então registrar a entrega.
-
-Essa pendência **não está concluída**. Não há informação suficiente para produzir o documento, nem foi criada declaração de autoria ou participação.
+A “carta” é a entrega manuscrita individual descrita acima, já prevista no enunciado. Não representa documento extra nem pendência de confirmação. Cada integrante deve entregar seus próprios dois diagramas e suas cinco respostas; este esclarecimento não significa que os manuscritos já foram produzidos ou entregues.
 
 ## Critérios lembrados pelo enunciado
 
