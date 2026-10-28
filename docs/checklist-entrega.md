@@ -1,0 +1,38 @@
+# Checklist de entrega
+
+## Projeto coletivo ou individual
+
+- [ ] Preencher nomes completos, matrículas, turma, professor e data no README.
+- [ ] Instalar com `npm ci` usando a versão indicada do Node.
+- [ ] Configurar `.env` local; conferir que não é rastreado pelo Git.
+- [ ] Executar migrations e seed em MySQL real.
+- [ ] Executar typecheck, lint, testes unitários, integração e build.
+- [ ] Revisar os resultados e limitações em [verificacao.md](verificacao.md).
+- [ ] Demonstrar cadastro/login, frota, filtro, locação, histórico e devolução na interface.
+- [ ] Demonstrar as rotas reais com JWT e explicar o conflito de concorrência.
+- [ ] Conferir que os diagramas correspondem ao schema e ao fluxo final.
+- [ ] Revisar `git status`, diff, remote e ausência de segredos antes de criar/enviar commits.
+- [ ] Enviar ao repositório existente após revisão e entregar o link ao professor pelo canal definido.
+
+## Entrega individual de cada aluno
+
+- [ ] DER elaborado individualmente, inteiramente à mão.
+- [ ] Diagrama de sequência elaborado individualmente, inteiramente à mão.
+- [ ] Cinco respostas A–E elaboradas individualmente, inteiramente à mão.
+- [ ] Usar papel A4 branco, sem pautas ou quadriculados.
+- [ ] Identificar nome completo; organizar folhas legíveis para entrega física.
+- [ ] Não substituir manuscritos por impressões nem copiar respostas de colegas.
+- [ ] Treinar localizar, explicar e justificar qualquer parte do sistema.
+- [ ] Participar da demonstração e responder à pergunta oral individual.
+
+## Pendência da “carta”
+
+- [ ] Perguntar ao professor qual é o conteúdo, formato e canal de envio da “carta” mencionada verbalmente.
+- [ ] Registrar a orientação recebida antes de preparar esse material.
+- [ ] Cumprir a exigência confirmada e então registrar a entrega.
+
+Essa pendência **não está concluída**. Não há informação suficiente para produzir o documento, nem foi criada declaração de autoria ou participação.
+
+## Critérios lembrados pelo enunciado
+
+A entrega do projeto com link GitHub e dos manuscritos vale 3,0 pontos. A apresentação e a pergunta individual valem 2,0 pontos. Os diagramas digitais e este checklist são referências de preparação, sem substituir a entrega individual física.
